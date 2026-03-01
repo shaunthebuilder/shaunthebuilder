@@ -1,25 +1,35 @@
-# Hi, I'm Shantanu 👋
+# Hi, I'm Shantanu Rastogi 👋
 
-### Builder & Open-Source Developer from Bengaluru, India
+### Director of AI Product & Engineering | Bengaluru, India
 
-I build local-first, AI-powered tools that put data and intelligence in your hands — no cloud required.
+> *15+ years of product leadership. Now also vibe coding my ideas into reality.*
+
+I build products (many using AI) that transform data into decisions and insights into competitive advantage. Currently leading product management at Maersk, driving the integration of generative AI and LLMs into analytics and business intelligence platforms.
+
+Recently started on a new journey — turning product intuition into working software through vibe coding with AI tools.
 
 ---
 
-### 🔭 Currently Working On
-- **[Open-GR-WM](https://github.com/shaunthebuilder/Open-GR-WM)** — a local-first Graph RAG workspace for ingesting PDFs/URLs, building knowledge graphs, and chatting with grounded answers using Ollama
+### 💼 Day Job
+- **Director of AI Product & Engineering** @ [A.P. Moller - Maersk](https://www.maersk.com)
+- Driving GenAI & LLM integration into enterprise analytics and BI platforms
+- Building AI-native, agentic experiences that deliver measurable outcomes
+- Previously: **Flipkart** | **UrbanLadder** | **Directi / Media.net** | **Shaadi.com**
 
-### 🌱 Currently Exploring
-- Knowledge graphs & graph-based retrieval-augmented generation (RAG)
-- Local LLMs with Ollama
-- Streamlit for rapid AI app prototyping
+### 🔭 Currently Vibe Coding
+- **[Open-GR-WM](https://github.com/shaunthebuilder/Open-GR-WM)** — local-first Graph RAG workspace: ingest PDFs/URLs, build knowledge graphs, and chat with grounded answers using Ollama
+
+### 🌱 What I Bring to Code
+- AI fluency: hands-on with GenAI tools, LLMs, prompt optimization & ML workflows
+- Product thinking: data-driven strategy, 0-to-1 and scale
+- Systems thinking: designing for complexity and long-term adaptability
 
 ### 💬 Ask Me About
-- Python, AI/ML tooling, local-first architectures
-- Building open-source projects from scratch
+- Product management, GenAI strategy, local-first AI architectures
+- Vibe coding — turning product ideas into working prototypes with AI
 
-### 📫 How to Reach Me
-- GitHub: [@shaunthebuilder](https://github.com/shaunthebuilder)
+### 📯 Connect
+- LinkedIn: [linkedin.com/in/product-management](https://linkedin.com/in/product-management)
 
 ---
 
@@ -33,4 +43,4 @@ I build local-first, AI-powered tools that put data and intelligence in your han
 
 ---
 
-⭐️ *If you find my work useful, consider giving it a star!*
+*What drives me: solving high-impact problems, building with autonomy and trust, and the craft of turning ambiguity into clarity.*
