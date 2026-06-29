@@ -12,9 +12,12 @@ I build AI products that turn ambiguity into competitive advantage and data into
 - Previously: **Flipkart** | **UrbanLadder** | **Directi / Media.net** | **Shaadi.com**
 
 ### 🚀 Recent projects
-- **[Open-GR-WM](https://github.com/shaunthebuilder/Open-GR-WM)** — local-first Graph RAG workspace: ingest PDFs/URLs, build knowledge graphs, and chat with grounded answers using Ollama
-- **[omnivious-voice-studio](https://github.com/shaunthebuilder/omnivious-voice-studio)** — local-first open-source voice persona studio for Apple Silicon, with persona training/certification and expressive MLX rendering
-- **[autocast-ai-podcast-studio](https://github.com/shaunthebuilder/autocast-ai-podcast-studio)** — local-first AI podcast studio for research-backed two-host episodes with certified voice personas on Apple Silicon
+A through-line across these: build the tool I actually needed, ship it local-first wherever I could, and let working code do the talking.
+
+- **[continuity-ledger](https://github.com/shaunthebuilder/continuity-ledger)** — a Claude Code plugin that gives long AI coding sessions memory across threads. One command distills a dense, cited progress note before you close a thread; a hook reads it back into the next one — so you stop paying to re-explain your own codebase every time you start fresh.
+- **[autocast-ai-podcast-studio](https://github.com/shaunthebuilder/autocast-ai-podcast-studio)** — a local-first AI podcast studio that turns research into two-host episodes with certified voice personas, running entirely on Apple Silicon.
+- **[omnivious-voice-studio](https://github.com/shaunthebuilder/omnivious-voice-studio)** — the open-source voice studio behind those personas: training, certification, and expressive on-device rendering with MLX.
+- **[Open-GR-WM](https://github.com/shaunthebuilder/Open-GR-WM)** — a local-first Graph RAG workspace: feed it PDFs and URLs, it builds a knowledge graph, and you chat with grounded, sourced answers via Ollama.
 
 ### 🌱 What I bring to code
 - AI fluency: hands-on with GenAI tools, LLMs, prompt optimization & ML workflows
