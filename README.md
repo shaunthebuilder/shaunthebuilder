@@ -1,6 +1,6 @@
 # Hi, I'm Shantanu Rastogi 👋
 ### Director (Engineering & Product Management) | Bengaluru, India
-> 15+ years of product leadership.
+> ~20 years of product leadership.
 
 I build AI products that turn ambiguity into competitive advantage and data into decisions. Currently at A.P. Moller - Maersk, integrating GenAI/LLMs into enterprise analytics and BI, and designing agentic, AI-native experiences at scale.
 
